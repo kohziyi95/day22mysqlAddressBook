@@ -8,8 +8,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import vttp2022.day23addressbook.model.Contact;
 import vttp2022.day23addressbook.repositories.ContactRepo;
-import vttp2022.model.Contact;
 
 @SpringBootTest
 class Day23addressbookApplicationTests {

@@ -5,7 +5,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.support.rowset.SqlRowSet;
 import org.springframework.stereotype.Repository;
 
-import vttp2022.model.Contact;
+import vttp2022.day23addressbook.model.Contact;
 
 import static vttp2022.day23addressbook.repositories.Queries.*;
 

@@ -1,4 +1,4 @@
-package vttp2022.model;
+package vttp2022.day23addressbook.model;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

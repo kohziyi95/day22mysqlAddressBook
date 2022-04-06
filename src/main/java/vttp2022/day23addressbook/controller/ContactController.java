@@ -19,8 +19,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import jakarta.json.Json;
 import jakarta.json.JsonObject;
 import jakarta.json.JsonReader;
+import vttp2022.day23addressbook.model.Contact;
 import vttp2022.day23addressbook.repositories.ContactRepo;
-import vttp2022.model.Contact;
 
 @Controller
 @RequestMapping("/")
